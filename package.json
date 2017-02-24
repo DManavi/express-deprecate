@@ -1,0 +1,36 @@
+{
+  "name": "express-deprecate",
+  "version": "0.1.0",
+  "description": "API deprecation middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DManavi/express-deprecate.git"
+  },
+  "author": {
+    "name": "Danial Manavi",
+    "email": "dmanavi@live.com"
+  },
+  "keywords": [
+    "deprecate",
+    "versioning",
+    "version",
+    "api",
+    "express"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DManavi/express-deprecate/issues"
+  },
+  "homepage": "https://github.com/DManavi/express-deprecate#readme",
+  "dependencies": {
+    "debug": "^2.6.1",
+    "extend": "^3.0.0"
+  },
+  "devDependencies": {
+    "express": "^4.14.1"
+  }
+}
